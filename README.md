@@ -13,7 +13,15 @@ The dataset contains demographic and financial information about 1,000 individua
 ---
 
 ## 📂 Repository Structure
+Bike-Sales-Ecxel-dashboard/
 
+│
+
+├── Bike_Sales_Dashboard.xlsx   # Main Excel workbook (cleaned data + dashboard)
+
+├── Excel_Project_Dataset.xlsx  # Original raw dataset
+
+└── README.md                   # Project documentation
 ---
 
 ## 🗂️ Dataset Overview
